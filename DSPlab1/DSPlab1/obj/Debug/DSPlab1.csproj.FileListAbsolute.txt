@@ -1,0 +1,30 @@
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\bin\Debug\DSPlab1.exe.config
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\bin\Debug\DSPlab1.exe
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\bin\Debug\DSPlab1.pdb
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csprojAssemblyReference.cache
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\obj\Debug\DSPlab1.Form1.resources
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\obj\Debug\DSPlab1.Properties.Resources.resources
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csproj.GenerateResource.cache
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csproj.CoreCompileInputs.cache
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\obj\Debug\DSPlab1.exe
+C:\Users\Relik\source\repos\DSPlab1\DSPlab1\obj\Debug\DSPlab1.pdb
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\bin\Debug\DSPlab1.exe.config
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\bin\Debug\DSPlab1.exe
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\bin\Debug\DSPlab1.pdb
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csprojAssemblyReference.cache
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\obj\Debug\DSPlab1.Form1.resources
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\obj\Debug\DSPlab1.Properties.Resources.resources
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\obj\Debug\DSPlab1.exe
+E:\Загрузки из Интернета\Универ\Цифровая обработка сигналов\Lab-1\DSPlab1\DSPlab1\obj\Debug\DSPlab1.pdb
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\bin\Debug\DSPlab1.exe.config
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\bin\Debug\DSPlab1.exe
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\bin\Debug\DSPlab1.pdb
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\obj\Debug\DSPlab1.Form1.resources
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\obj\Debug\DSPlab1.Properties.Resources.resources
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\obj\Debug\DSPlab1.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\obj\Debug\DSPlab1.exe
+C:\Users\Артур\Desktop\DSPlab1\DSPlab1\obj\Debug\DSPlab1.pdb
